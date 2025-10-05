@@ -1,0 +1,6 @@
+server:
+  port: "8080"
+
+integrations:
+  slack:
+    webhook_url: "YOUR_SLACK_WEBHOOK_URL_HERE"
