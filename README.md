@@ -1,15 +1,9 @@
-Of course\! Here is a great README.md for your `hookmate` project. It's friendly, informative, and has plenty of emojis to make it welcoming.
-
-Just create a new file named `README.md` in the root of your `hookmate` folder and paste the content below into it.
-
------
-
 # HookMate 🎣
 
 [](https://www.google.com/search?q=https://goreportcard.com/report/github.com/feranicus/hookmate)
 [](https://opensource.org/licenses/Apache-2.0)
 
-**HookMate** is your new best friend for developer automation\! It's a lightweight, blazing-fast, and self-hosted API service written in Go. It acts as a central hub to receive webhooks and trigger actions across different services like Slack, Discord, GitHub, and more.
+HookMate is your new best friend for developer automation\! It's a lightweight, blazing-fast, and self-hosted API service written in Go. It acts as a central hub to receive webhooks and trigger actions across different services like Slack, Discord, GitHub, and more.
 
 Think of it as your personal, code-driven "Zapier for Developers" that you control completely. No vendor lock-in, no complex UIs—just simple, powerful automation.
 
